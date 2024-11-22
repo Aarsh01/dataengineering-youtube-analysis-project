@@ -27,3 +27,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+
+![image](https://github.com/user-attachments/assets/a06300e3-d01f-4ef1-ac7a-e80d7daf70d2)
